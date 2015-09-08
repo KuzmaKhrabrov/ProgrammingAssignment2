@@ -1,4 +1,4 @@
-## The first function, makeVector creates a special "matrix" x, 
+## The first function creates a special "matrix" x, 
 ## which is really a list containing a function to
 ##1. set the value of the matrix
 ##2. get the value of the matrix
